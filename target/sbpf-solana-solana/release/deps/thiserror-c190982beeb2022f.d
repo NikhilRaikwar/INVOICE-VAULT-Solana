@@ -1,0 +1,10 @@
+/mnt/e/New folder (2)/invoice solana/reflect-invoice-vault/target/sbpf-solana-solana/release/deps/libthiserror-c190982beeb2022f.rmeta: /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/mnt/e/New folder (2)/invoice solana/reflect-invoice-vault/target/sbpf-solana-solana/release/deps/libthiserror-c190982beeb2022f.rlib: /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/mnt/e/New folder (2)/invoice solana/reflect-invoice-vault/target/sbpf-solana-solana/release/deps/thiserror-c190982beeb2022f.d: /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/home/nikhilraikwar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
